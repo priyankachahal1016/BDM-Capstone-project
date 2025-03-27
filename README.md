@@ -23,7 +23,6 @@ Data-Driven Decision Making: Developed actionable insights for revenue growth, c
 **Skills Developed**
 Data Management & Statistical Analysis
 
-
 Advanced Sales & Revenue Forecasting
 
 
