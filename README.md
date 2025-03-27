@@ -21,16 +21,14 @@ Data-Driven Decision Making: Developed actionable insights for revenue growth, c
 
 
 **Skills Developed**
+
 Data Management & Statistical Analysis
 
 Advanced Sales & Revenue Forecasting
 
-
 Inventory Optimization & Business Strategy
 
-
 Data Visualization (MS Excel, Python)
-
 
 Cluster Analysis & Trend Identification
 
