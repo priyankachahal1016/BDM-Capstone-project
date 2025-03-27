@@ -11,11 +11,15 @@ Advanced Analytical Techniques: Used MS Excel and Python for data cleaning, stat
 Cluster & Trend Analysis: Grouped product categories and customer segments to identify high-performing clusters.
 Inventory Optimization: Evaluated stock levels and demand fluctuations to improve supply chain efficiency.
 Operational Efficiency Assessment: Identified inefficiencies in procurement, stock management, and resource allocation.
+
+
 **Outcomes**
 Sales & Profit Trends: Identified May as a peak demand period and highlighted variations in sales across different weeks.
 Inventory Optimization: Recommended dynamic inventory management strategies to prevent stockouts and overstocks.
 Operational Improvements: Proposed just-in-time (JIT) inventory practices and supplier collaborations to enhance efficiency.
 Data-Driven Decision Making: Developed actionable insights for revenue growth, customer retention, and strategic planning.
+
+
 **Skills Developed**
 Data Management & Statistical Analysis
 Advanced Sales & Revenue Forecasting
